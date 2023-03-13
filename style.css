@@ -21,13 +21,12 @@ body{
     background-color: blueviolet;
 }
 
-.list{
-    color: black;
+.ordered-list{
+    background-color: white;
+    color: purple;
 }
 
-.unordered-list{
-    background-color: white;
-}
+
 /* home button */
 .home{
     margin: auto;
