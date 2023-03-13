@@ -1,4 +1,10 @@
 /* style.css */
+
+body{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 15px;
+}
+
 .image {
     height: auto;
     width: 500px;
