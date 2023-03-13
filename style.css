@@ -11,6 +11,10 @@
     text-align: center;
 }
 
+#home{
+    background-color: blueviolet;
+}
+
 .list{
     color: black;
 }
@@ -24,4 +28,8 @@
     display: block;
     width: 75px;
     height: 25px;
+}
+
+.homepage{
+    background-color: gray;
 }
